@@ -5,7 +5,7 @@ export default function Home() {
     // <></>
     <div className="min-h-screen grid grid-cols-2 w-[1440px]">
       <div className="relative">
-        <Image src={"/Container.png"} alt="" fill className=""></Image>
+        <Image src={"/walp.png"} alt="" fill className=""></Image>
       </div>
       <div className="flex items-center justify-center justify-self-center w-full">
         <div className="flex flex-col gap-4 w-full px-[129px]">
